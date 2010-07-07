@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="app/pong/BallLv2.java|app/pong/BlueToothManager.java|app/pong/BrickLv2.java|app/pong/ConnectionManager.java|app/pong/MainScreenLv2.java|app/pong/MusicPlayerLv2.java|app/pong/WelcomeScreenLv2.java|app/pong/IBlueToothManager.java|app/pong/IMainGame.java|app/pong/inGameMenu.java|app/pong/MainGame.java|app/pong/MobilePong.java|app/pong/TestMidlet.java|app/pong/splashScreen.java|app/pong/message.java|app/pong/audio.java|app/pong/ball.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
