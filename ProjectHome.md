@@ -1,0 +1,1 @@
+Its an android version of my JME mobile-pong game, when finished it will support 1P and 2P over Bluetooth, Reasonable AI, and controls to rotate paddles.
